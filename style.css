@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+#color-box {
+  width: 15rem;
+  height: 15rem;
+  background-color: blue;
+  margin: auto;
+}
+
+#change-color-btn {
+  padding: 1rem;
+  margin-top: 2rem;
+  border: none;
+  background-color: blueviolet;
+  color: #fff;
+  cursor: pointer;
+}
+
+#change-color-btn:hover {
+  background-color: #511984;
+}
